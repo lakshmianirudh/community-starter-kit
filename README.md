@@ -2,11 +2,12 @@
 
 DESCRIPTION PLACEHOLDER
 
-## What it does
+
+## What it does who knows
 
 FEATURES PLACEHOLDER
 
-## Getting started
+## Getting started good for yo
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
